@@ -1,0 +1,1 @@
+El ejercicio pedia usar las funciones map,reduce y filter en javascript atacando a la api de https://jsonplaceholder.typicode.com
